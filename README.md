@@ -20,7 +20,7 @@ Para a aplicação voce irá precisar de:
  2. Git (https://git-scm.com/)
 
 Em seguida :
- - Clone o projeto (git clone git://github.com/schacon/grit.git)
+ - Clone o projeto (git clone https://github.com/ViniciusReno/CardapioDigital)
  - Acesse a pasta ( cd cardapio\client )
  - Atualize os pacotes (npm install)
  - Quando terminar o download execute: npm run build
